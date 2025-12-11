@@ -3,7 +3,11 @@
     "id": "terror",
     "name": "Terror Modpack",
     "manifest": "modpacks/TerrorModpack/manifest.json",
-    "icon": "modpacks/TerrorModpack/assets/icon.png"
+  },
+  {
+    "id": "SurivalCute",
+    "name": "Survival Cute Modpack",
+    "manifest": "modpacks/SurvivalCute/manifest.json",
   },
   {
     "id": "vanilla-like",
@@ -11,3 +15,4 @@
     "manifest": "modpacks/vanilla-like/manifest.json"
   }
 ]
+
