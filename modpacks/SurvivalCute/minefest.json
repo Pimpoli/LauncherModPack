@@ -1,14 +1,12 @@
 {
-  "id": "survivalcute",
-  "name": "Survival Cute",
-  "versions": [
+  "id":"SurvivalCute",
+  "name":"Surival Cute Modpack",
+  "recommended":"1.2.0",
+  "versions":[
     {
-      "id": "1.0.0",
-      "files": [
-        { "name":"forge-installer-1.18.2.jar", "category":"installers" },
-        { "name":"my-modpack-mods.zip","category":"mods" }
-      ]
+      "id":"1.2.0",
+      "gameVersion":"1.20.1",
+      "modLoader":"forge"
     }
-  ],
-  "recommended": "1.0.0"
+  ]
 }
