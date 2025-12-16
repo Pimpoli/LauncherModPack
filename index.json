@@ -5,12 +5,13 @@
   },
   {
     "name": "Survival Nature",
-    "manifest": "modpacks/SurvivalNature/manifest.json"
+    "manifest": "modpacks/SurvivalNature/minefest.json"
   },
   {
     "name": "Contrucion",
     "manifest": "modpacks/Contrucion/minefest.json" 
   }
 ]
+
 
 
