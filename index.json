@@ -1,16 +1,15 @@
 [
   {
-    "id": "terror",
     "name": "Terror Modpack",
     "manifest": "modpacks/TerrorModpack/manifest.json"
   },
   {
-    "name": "Survival Cute",
-    "manifest": "modpacks/SurvivalCute/manifest.json"
+    "name": "Survival Nature",
+    "manifest": "modpacks/SurvivalNature/manifest.json"
   },
   {
-    "id": "vanilla-like",
-    "name": "Vanilla Like",
-    "manifest": "modpacks/vanilla-like/manifest.json"
+    "name": "Contrucion",
+    "manifest": "modpacks/Contrucion/manifest.json"
   }
 ]
+
