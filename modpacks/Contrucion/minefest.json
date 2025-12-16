@@ -1,0 +1,12 @@
+{
+  "id":"NombreDelModPack",
+  "name":"NombreDelModPack Modpack",
+  "recommended":"1.2.0",
+  "versions":[
+    {
+      "id":"1.2.0",
+      "gameVersion":"1.20.1",
+      "modLoader":"SI es Forge o Fabric"
+    }
+  ]
+}
