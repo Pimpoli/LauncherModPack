@@ -1,6 +1,6 @@
 {
-  "id":"SurivalCute",
-  "name":"Survival Cute Modpack",
+  "id":"SurivalNature",
+  "name":"Survival Nature Modpack",
   "recommended":"1.2.0",
   "versions":[
     {
@@ -9,4 +9,5 @@
       "modLoader":"forge"
     }
   ]
+
 }
