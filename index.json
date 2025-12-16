@@ -9,7 +9,8 @@
   },
   {
     "name": "Contrucion",
-    "manifest": "modpacks/Contrucion/manifest.json"
+    "manifest": "modpacks/Contrucion/minefest.json" 
   }
 ]
+
 
